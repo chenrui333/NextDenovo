@@ -1,0 +1,18 @@
+Makefile
+  h_9df9c32c3f321d 9,21
+lib/Makefile
+  h_9df9c32c3f321d 12,40
+util/Makefile
+  h_9df9c32c3f321d 12,36,41-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "17ca136749898b66b468a35a47585354153ea6f5",
+  "prompts": {},
+  "humans": {
+    "h_9df9c32c3f321d": {
+      "author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
